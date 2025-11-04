@@ -8,9 +8,9 @@ A perfect beginner-friendly animation project!
 
 👨‍💻 Author
 
-Saker Ahmed Hridoy
-📧 Email: sakerahmedhridoy@gmail.com
-🌐 GitHub: https://github.com/sakerhridoy
+###Saker Ahmed Hridoy
+📧 ######Email: sakerahmedhridoy@gmail.com
+🌐 ######GitHub: https://github.com/sakerhridoy
 
 📸 Preview Description
 
