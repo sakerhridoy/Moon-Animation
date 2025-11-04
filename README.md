@@ -1,48 +1,69 @@
-# 🌙 Moon Animation (HTML & CSS)
+# 🌙 Moon Animation | HTML & CSS
 
-This project showcases a glowing **Moon Animation** created using pure **HTML** and **CSS**.  
-The animation uses CSS keyframes to simulate a smooth movement and lighting effect, giving it a realistic moon-like glow.
+A smooth glowing **Moon Animation** made purely with HTML & CSS.  
+This animation creates a floating and glowing moon effect using CSS keyframes and transforms.  
+A perfect beginner-friendly animation project!
 
 ---
+
 👨‍💻 Author
 
 Saker Ahmed Hridoy
+📧 Email: sakerahmedhridoy@gmail.com
+🌐 GitHub: https://github.com/sakerhridoy
+
+📸 Preview Description
+
+A glowing animated moon floating side-to-side with a soft neon glow.
+The author’s name appears beautifully beneath in a clean design.
+A subtle and modern effect that’s lightweight and visually appealing.
 
 ## ✨ Features
 
-- ✅ Pure HTML & CSS (No JavaScript)
-- ✅ Smooth glowing animation
-- ✅ Lightweight and responsive
-- ✅ Beginner-friendly and easy to modify
+- ✅ Pure HTML & CSS (No JavaScript needed)  
+- ✅ Smooth moon movement animation  
+- ✅ Neon glow effect using shadows  
+- ✅ Fully responsive design  
+- ✅ Simple & well-structured code
 
 ---
 
-## 📁 Project Structure
+## 🔗 Live Demo
 
-📦 Moon-Animation
+🔗 Live Demo Link: [https://sakerhridoy.github.io/Moon-Animation/](https://sakerhridoy.github.io/Moon-Animation/)  
+📂 GitHub Repository: [https://github.com/sakerhridoy/Moon-Animation](https://github.com/sakerhridoy/Moon-Animation)
+
+---
+
+## 🛠️ Technologies Used
+
+| Technology | Purpose |
+|-----------|---------|
+| HTML5      | Structure of the page |
+| CSS3       | Animation & Styling |
+
+---
+
+## 📂 Project Structure
+
 ┣ 📄 index.html
 ┣ 🎨 style.css
 ┗ 📄 README.md
 
-
-
 ---
 
-## 🚀 How to Run the Project
+## 🚀 How to Run Locally
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/moon-animation.git
+```bash
+# Clone this repository
+git clone https://github.com/sakerhridoy/Moon-Animation.git
 
+# Navigate into folder
+cd Moon-Animation
 
-   
----
+# Open index.html in your browser
 
-If you want, I can:
+⭐ Support
 
-✅ Insert your actual GitHub repo link  
-✅ Add a **preview image** or **demo GIF**  
-✅ Deploy live using **GitHub Pages**  
-✅ Upgrade animation with stars, text effects, gradient sky, etc.
-
-Would you like me to create the GitHub Pages live link for you? 🚀
+If you enjoyed this little animation project, please Star ⭐ the repository to support the work!
+Thanks for visiting and watching the moon shine! 🌙✨
