@@ -1,0 +1,43 @@
+body {
+  background-color: #000;
+}
+h1 {
+  margin: 150px auto;
+  color: #f2eded;
+  font-size: 24px;
+  text-shadow: 0px 1px 10px #f4f0f0;
+}
+.moon {
+  margin: 100px auto;
+  width: 250px;
+  height: 250px;
+  border-radius: 50%;
+  background: #000;
+  position: relative;
+}
+
+.moon::before {
+  content: '';
+  position: absolute;
+  width: 250px;
+  height: 250px;
+  background-color: #fff;
+  border-radius: 50%;
+  z-index: -1;
+   -webkit-animation: 3.2s animation linear infinite alternate;
+  animation: 3.2s animation linear infinite alternate;
+}
+@keyframes animation {
+  0% {
+    transform: translateX(40px) scale(0.9);
+    box-shadow: none;
+  }
+  50% {
+    transform: translate(0px, 0px) scale(1.02);
+    box-shadow: 0 0 10px #fff, 0 0 80px 2px #fff;
+  }
+  100% {
+    transform: translateX(-40px) scale(0.9);
+    box-shadow: none;
+  }
+}
