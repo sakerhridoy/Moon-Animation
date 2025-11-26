@@ -52,16 +52,6 @@ A subtle and modern effect that’s lightweight and visually appealing.
 
 ---
 
-## 🚀 How to Run Locally
-
-```bash
-# Clone this repository
-git clone https://github.com/sakerhridoy/Moon-Animation.git
-
-# Navigate into folder
-cd Moon-Animation
-
-# Open index.html in your browser
 
 ⭐ Support
 
