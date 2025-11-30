@@ -5,6 +5,7 @@ This animation creates a floating and glowing moon effect using CSS keyframes an
 A perfect beginner-friendly animation project!
 
 ---
+### Live Demo : https://moon-animation-sepia.vercel.app/
 
 👨‍💻 Author
 
@@ -27,12 +28,6 @@ A subtle and modern effect that’s lightweight and visually appealing.
 - ✅ Simple & well-structured code
 
 ---
-
-## 🔗 Live Demo
-
-🔗 Live Demo Link: [https://sakerhridoy.github.io/Moon-Animation/](https://sakerhridoy.github.io/Moon-Animation/)  
-📂 GitHub Repository: [https://github.com/sakerhridoy/Moon-Animation](https://github.com/sakerhridoy/Moon-Animation)
-
 ---
 
 ## 🛠️ Technologies Used
